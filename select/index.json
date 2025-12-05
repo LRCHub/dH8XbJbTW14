@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "あとひとつ",
+  "base_artist": "FUNKY MONKEY BABYS",
+  "createdAt": "2025-12-05T12:19:33.187889Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あとひとつ feat.こぴ",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/01_あとひとつ_feat.こぴ_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あとひとつ",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/02_あとひとつ_Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "あとひとつ",
+      "artist": "コバソロ feat. こぴ",
+      "has_synced": true,
+      "path": "select/03_あとひとつ_コバソロ_feat._こぴ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "あとひとつ",
+      "artist": "FUNKY MONKEY BABYS",
+      "has_synced": false,
+      "path": "select/04_あとひとつ_FUNKY_MONKEY_BABYS.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "あとひとつ",
+      "artist": "FUNKY MONKEY BABYS",
+      "has_synced": true,
+      "path": "select/05_あとひとつ_FUNKY_MONKEY_BABYS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "あとひとつ",
+      "artist": "Nicholas Edwards",
+      "has_synced": false,
+      "path": "select/06_あとひとつ_Nicholas_Edwards.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あとひとつ",
+      "artist": "FUNKY MONKEY BABYS",
+      "has_synced": false,
+      "path": "select/pl_01_あとひとつ_FUNKY_MONKEY_BABYS.txt"
+    }
+  ]
+}
